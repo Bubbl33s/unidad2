@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Delius&family=Sofia&display=swap");
+
+body {
+  margin: 5;
+  background-color: #c3f1ff;
+  color: #000000;
+  font-size: 20px;
+}
+
+header {
+  background-color: #ec9be5;
+  color: rgb(255, 255, 255);
+  padding: 1px;
+  text-align: center;
+}
+
+.titulo {
+  font-family: "sofia", cursive;
+  font-size: 22px;
+}
+
+.content {
+  padding: 20px;
+}
+
+h3 {
+  color: #0c6aa8;
+  font-size: 18px;
+}
+
+img {
+  width: 250px;
+  padding-bottom: 70px;
+  padding-right: 50rem;
+}

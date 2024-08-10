@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Cabin:ital,wght@0,400..700;1,400..700&family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Sixtyfour&family=Timmana&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Akshar:wght@300..700&family=Bungee+Inline&family=Cabin:ital,wght@0,400..700;1,400..700&family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Sixtyfour&family=Timmana&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Akshar:wght@300..700&family=Bungee+Inline&family=Cabin:ital,wght@0,400..700;1,400..700&family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Itim&family=Sixtyfour&family=Timmana&display=swap");
+
+body {
+  background-color: rgb(250, 250, 203);
+}
+
+.titulo {
+  text-align: center;
+  font-size: 60px;
+  color: rgb(0, 0, 0);
+  font-family: "Timmana", sans-serif;
+}
+
+.present {
+  background-color: rgb(243, 187, 97);
+  margin: 0 auto;
+  padding: 10px;
+  width: 300px;
+}
+
+img {
+  width: 400px;
+  padding: 10px;
+}
+.sobreMi {
+  background-color: rgb(244, 192, 110);
+  margin: 0 auto;
+  padding-bottom: 20px;
+  width: 500px;
+}
+.prog {
+  background-color: rgb(244, 192, 110);
+  margin: 0 auto;
+  padding-bottom: 20px;
+  width: 500px;
+}
+.exp {
+  background-color: rgb(244, 192, 110);
+  float: left;
+  width: 500px;
+}
+
+.Hab {
+  background-color: rgb(244, 192, 110);
+  float: right;
+  width: 500px;
+}
+footer {
+  background-color: black;
+  color: white;
+  font-size: 10px;
+  margin-top: 400px;
+}
+h2 {
+  font-size: 30px;
+  text-align: center;
+  font-family: "Akshar", sans-serif;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+  font-family: "Itim", cursive;
+}
+li {
+  font-size: 20px;
+  font-family: "Itim", cursive;
+}

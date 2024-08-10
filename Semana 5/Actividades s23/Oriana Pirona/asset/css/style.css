@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Platypi:ital,wght@0,300..800;1,300..800&display=swap");
+
+body {
+  background-color: rgb(95, 87, 87);
+  font-family: "Platypi", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  background-image: url("https://i.pinimg.com/564x/f6/e2/31/f6e231ae4ddef989ddfcd579fd60d2d1.jpg");
+  background-size: cover; /* Ajusta la imagen al tamaño del viewport */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+  background-position: center; /* Centra la imagen */
+  background-attachment: fixed;
+  text-align: center;
+  font-size: 35px;
+}
+h1 {
+  font-size: 50px;
+}
+main {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+.container {
+  display: flex;
+  text-align: center;
+}
+
+aside {
+  flex: 0 0 300px; /* Define un ancho fijo para el aside */
+  background-color: rgb(239, 227, 227);
+  padding: 15px;
+  border: 1px solid #ddd;
+  color: purple;
+}
+h2 {
+  font-size: 30px;
+}
+
+article {
+  font-size: 20px;
+  color: beige;
+}
+
+#img {
+  margin-left: 80px;
+  padding: 20px;
+  height: 100px;
+  width: 500px;
+}
+
+#imagen2 {
+  margin-left: 80px;
+  padding: 20px;
+  width: 400px;
+  height: auto;
+}
+
+footer {
+  display: inline-flex;
+  text-align: center;
+  justify-content: center;
+  background-color: violet;
+  border: 3px solid snow;
+  color: black;
+}
+
+h5 {
+  margin: 20px;
+}

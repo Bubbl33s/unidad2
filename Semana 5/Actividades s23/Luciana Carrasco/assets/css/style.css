@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(154, 168, 245);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+#contenedor {
+  background-color: rgb(196, 192, 252);
+  width: 200px;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.parte1 {
+  text-align: center;
+  color: rgb(69, 88, 253);
+}
+
+.estilo-contenedor {
+  width: 900px;
+  margin: 10px auto;
+  border-radius: 10px;
+}
+
+#contenedor2 {
+  background-color: rgb(240, 241, 137);
+}
+
+#contenedor3 {
+  background-color: rgb(241, 157, 248);
+}
+
+#contenedor4 {
+  background-color: rgb(142, 236, 142);
+}
+
+#contenedor5 {
+  background-color: rgb(138, 206, 252);
+}
+
+.parte2 {
+  padding: 5px 20px;
+}
