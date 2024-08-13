@@ -11,5 +11,5 @@ function restar(a, b) {
 // Exportaciones
 export {
   sumar,
-  restar
+  restar,
 };
